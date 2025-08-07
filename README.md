@@ -98,7 +98,8 @@ npm run dev
 - `GET /api/v1/notifications` - Get notifications
 - `PUT /api/v1/notifications/:id/read` - Mark as read
 
-## 👨💻 Author
+## 👨💻 AUTHOR
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+*saloni mishra*
+- GitHub:
+- sala3ni
