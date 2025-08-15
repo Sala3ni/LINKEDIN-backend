@@ -18,7 +18,7 @@ const __dirname=path.resolve();
 
 if(process.env.NODE_ENV !== "production"){
     app.use(cors({
-        origin:"http://localhost:5173",
+        origin:"https://linkedin-frontend-htwl7oo6j-saloni-mishras-projects.vercel.app",
         credentials:true,
     }));
 }
